@@ -15,7 +15,7 @@ Estou aqui para trocar ideias e compartilhar experiências! 🚀🚀
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:murilo.logo@gmail.com)
 
 ## Stack Principal
-[![Main Tech Stack](https://skillicons.dev/icons?i=java,nodejs,angular,react,ts)](https://skillicons.dev)
+[![Main Tech Stack](https://skillicons.dev/icons?i=java,spring,nodejs,angular,react,ts)](https://skillicons.dev)
 
 ## Tools
 [![ToolsKit](https://skillicons.dev/icons?i=vscode,git,github,gitlab,jenkins,docker,rabbitmq)](https://skillicons.dev)
